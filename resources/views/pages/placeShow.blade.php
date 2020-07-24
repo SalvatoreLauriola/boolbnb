@@ -12,7 +12,7 @@
             </ul>
         </div>
     @endif
-
+    <i class="fas fa-user-circle"></i>
     <div class="place-show">
         <div class="container mt-5">
             <div class="row d-flex align-items-center mb-4">
