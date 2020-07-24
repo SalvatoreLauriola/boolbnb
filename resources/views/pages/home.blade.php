@@ -12,7 +12,7 @@
     <main class="home">
 
         <section class="jumbo d-flex flex-wrap justify-content-center align-content-center">
-            <div class="jumbo__title col-12 text-center">
+            <div class="jumbo__title col-12 text-center ">
                 <label class="h1 d-block" for="city">TROVA LA TUA CASA</label>
             </div>
             <div class="jumbo__search col-6 d-flex align-content-center">
