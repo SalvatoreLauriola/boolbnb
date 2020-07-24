@@ -17,7 +17,7 @@
             </div>
             <div class="jumbo__search col-6 d-flex align-content-center">
                 <input class="search__input d-inline" type="text" name="city" id="city" placeholder="Ricerca il tuo appartamento">
-                <div class="search__btn btn ">CERCA</div>
+                <div class="search__btn btn">CERCA</div>
             </div>
 
             <input type="hidden" name="lat" id="lat">
